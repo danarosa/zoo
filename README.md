@@ -1,5 +1,5 @@
 # zoo
 
-[Parrot](parrot.md).
-[Rabbit](rabbit.md).
-[Lion](lion.md).
+## [Parrot](parrot.md).
+### [Rabbit](rabbit.md).
+## [Lion](lion.md).
