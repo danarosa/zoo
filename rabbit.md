@@ -1,0 +1,7 @@
+# Rabbit
+
+![Lion](https://en.wikipedia.org/wiki/Rabbit#/media/File:Oryctolagus_cuniculus_Rcdo.jpg)
+
+Rabbits or bunnies are small mammals in the family Leporidae (which also includes the hares), which is in the order Lagomorpha (which also includes pikas). They are familiar throughout the world as a small herbivore, a prey animal, a domesticated form of livestock, and a pet, having a widespread effect on ecologies and cultures. The most widespread rabbit genera are Oryctolagus and Sylvilagus. The former, Oryctolagus, includes the European rabbit, Oryctolagus cuniculus, which is the ancestor of the hundreds of breeds of domestic rabbit and has been introduced on every continent except Antarctica. The latter, Sylvilagus, includes over 13 wild rabbit species, among them the cottontails and tapetis. Wild rabbits not included in Oryctolagus and Sylvilagus include several species of limited distribution, including the pygmy rabbit, volcano rabbit, and Sumatran striped rabbit.
+
+Rabbits are a paraphyletic grouping, and do not constitute a clade, as hares (belonging to the genus Lepus) are nested within the Leporidae clade and are not described as rabbits. Although once considered rodents, lagomorphs diverged earlier and have a number of traits rodents lack, including two extra incisors. Similarities between rabbits and rodents were once attributed to convergent evolution, but studies in molecular biology have found a common ancestor between lagomorphs and rodents and place them in the clade Glires.
